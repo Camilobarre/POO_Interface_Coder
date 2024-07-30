@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace POO_Interface_Coder.Interfaces;
-public interface CRUD
+public interface ICRUD
 {
     void Crear();
     void Leer();
